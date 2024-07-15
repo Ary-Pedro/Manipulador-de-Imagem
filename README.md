@@ -82,8 +82,8 @@ A seguir, apresentamos um exemplo mais completo de manipulação de imagem utili
 
 <div style="text-align: center;">
 <img src="Img-Readme/01.gif" alt="Exemplo de temas" style="width: 85%; max-width: 300px; height: auto;">
-<img src="Img-Readme/ex.gif" alt="Exemplo de temas" style="width: 85%; max-width: 300px; height: 170px;">
-<img src="Img-Readme/02.gif" alt="Exemplo de temas" style="width: 85%; max-width: 300px; height: auto;">
+<img src="Img-Readme/03.gif" alt="Exemplo de temas" style="width: 85%; max-width: 300px; height: auto;">
+
 </div>
 
 <br>
