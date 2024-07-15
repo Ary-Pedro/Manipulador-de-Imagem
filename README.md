@@ -175,5 +175,5 @@ Esta opção permite ao usuário sobrepor uma imagem em outra, criando efeitos i
 
 ---
 
-**Trabalho feito no meu segundo período.** <br>
+**Trabalho feito no meu Inicio do segundo período.** <br>
 Sugerido pelo professor: <a href="https://www.linkedin.com/in/raphael-abreu/">Raphael Abreu</a>, onde deveria fazer um filtro e as manipulações propostas, sendo borda e inversão da imagem.
