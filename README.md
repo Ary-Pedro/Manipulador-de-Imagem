@@ -1,14 +1,10 @@
-Aqui está o texto formatado e corrigido:
-
 # Manipulação de Imagem com C
 
 ---
-
 Neste repositório, apresentamos uma coleção de filtros e efeitos para manipulação de imagens utilizando a linguagem de programação C. Com uma abordagem simples e eficaz, você poderá aplicar diversos efeitos em imagens no formato BMP, proporcionando uma experiência de aprendizado prática e envolvente.
 
 ## Proposta do Repositório
 
----
 
 Tente usar o modelo presente em `Estrutura Básica` para configurar o seu `main.c`. Para entender, use manipulações simples, aplicando lógicas de manipulações em matrizes bidimensionais ou tridimensionais com o padrão `i, j, k`. Use o meu modelo de exemplo para criar suas próprias manipulações.
 
