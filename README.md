@@ -1,7 +1,10 @@
 # Manipulação de Imagem com C
 
 ---
-[O enunciado do desafio!](https://raphael08.notion.site/PROG-2-Trabalho-pr-tico-Academia-2023-2-f446bd5248c0402bb307f24fd3b5e0d5?pvs=143)
+[O enunciado do desafio!](https://raphael08.notion.site/PROG-2-Trabalho-pr-tico-Academia-2023-2-f446bd5248c0402bb307f24fd3b5e0d5?pvs=143) 
+
+<br>   
+
 Neste repositório, apresentamos uma coleção de filtros e efeitos para manipulação de imagens utilizando a linguagem de programação C. Com uma abordagem simples e eficaz, você poderá aplicar diversos efeitos em imagens no formato BMP, proporcionando uma experiência de aprendizado prática e envolvente.
 
 ## Proposta do Repositório
